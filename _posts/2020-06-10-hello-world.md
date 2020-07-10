@@ -25,6 +25,10 @@ post_date: 2020-06-10 09:50:36
 <ul><li></li></ul>
 <!-- /wp:list -->
 
+<!-- wp:heading -->
+<h2>test</h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
