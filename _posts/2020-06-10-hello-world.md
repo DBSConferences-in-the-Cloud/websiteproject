@@ -10,7 +10,7 @@ published: true
 post_date: 2020-06-10 09:50:36
 ---
 <!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing! We are still testing </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
