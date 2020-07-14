@@ -1,7 +1,7 @@
 ---
 ID: 3
 post_title: Privacy Policy
-author: hwa
+author: James Atiti
 post_excerpt: ""
 layout: page
 permalink: >
