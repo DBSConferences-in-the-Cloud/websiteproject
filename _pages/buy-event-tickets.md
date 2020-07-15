@@ -1,6 +1,6 @@
 ---
 ID: 67
-post_title: Buy Event tickets
+post_title: Buy Conference tickets
 author: James Atiti
 post_excerpt: ""
 layout: page
