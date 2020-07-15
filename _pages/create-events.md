@@ -1,6 +1,6 @@
 ---
 ID: 65
-post_title: Create Events
+post_title: Create Conference
 author: James Atiti
 post_excerpt: ""
 layout: page
