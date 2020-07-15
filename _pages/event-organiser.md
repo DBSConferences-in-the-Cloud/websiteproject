@@ -1,6 +1,6 @@
 ---
 ID: 84
-post_title: Event Organiser
+post_title: Conference Organiser
 author: James Atiti
 post_excerpt: ""
 layout: page
