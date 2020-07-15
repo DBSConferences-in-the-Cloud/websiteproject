@@ -5,7 +5,7 @@ author: hwa
 post_excerpt: ""
 layout: page
 permalink: >
-  https://hwa.dbsprojects.ie/wordpress/index.php/events/plan-events/wildview-taiwan-film-festival/
+  https://hwa.dbsprojects.ie/wordpress/index.php/how-to-use/plan-events/wildview-taiwan-film-festival/
 published: true
 post_date: 2020-07-15 09:45:11
 ---
@@ -28,6 +28,10 @@ post_date: 2020-07-15 09:45:11
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
 <div class="wp-block-button"><a class="wp-block-button__link" href="https://www.wildviewtaiwan.org.tw/festival/1789">See more details</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link" href="https://hwa.dbsprojects.ie/wordpress/index.php/events/buy-event-tickets/" target="_blank" rel="noreferrer noopener">Buy ticket</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 
