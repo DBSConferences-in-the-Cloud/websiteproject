@@ -1,6 +1,6 @@
 ---
 ID: 33
-post_title: Calendar
+post_title: Conference Calendar
 author: hwa
 post_excerpt: ""
 layout: page
