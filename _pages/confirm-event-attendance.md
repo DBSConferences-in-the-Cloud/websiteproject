@@ -1,6 +1,6 @@
 ---
 ID: 68
-post_title: Confirm Event attendance
+post_title: Confirm Conference attendance
 author: James Atiti
 post_excerpt: ""
 layout: page
