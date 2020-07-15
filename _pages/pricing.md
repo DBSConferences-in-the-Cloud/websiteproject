@@ -5,7 +5,7 @@ author: James Atiti
 post_excerpt: ""
 layout: page
 permalink: >
-  https://hwa.dbsprojects.ie/wordpress/index.php/stripe-checkout-result/overview/pricing/
+  https://hwa.dbsprojects.ie/wordpress/index.php/stripe-checkout-result/pricing/
 published: true
 post_date: 2020-07-15 14:51:51
 ---
