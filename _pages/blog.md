@@ -26,6 +26,70 @@ post_date: 2020-07-15 14:52:25
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>As 2020 is almost upon us, we’re looking to the future to list 13 can’t-miss conferences centered around cloud computing. These conferences cover every corner of the globe and span the entire year. We’ve also included links to each conference’s website so you can find more information or book your ticket!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Microsoft Ignite The Tour<br>WHEN: Numerous dates<br>WHERE: Numerous locations</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gartner IT Infrastructure, Operations &amp; Cloud Strategies<br>WHEN: Numerous dates<br>WHERE: Numerous locations</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cloud Expo Europe<br>WHEN: March 11th – 12th<br>WHERE: London, UK</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>CloudFest<br>WHEN: March 14th – 19th<br>WHERE: Europa-Park, Germany</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>KubeCon + CloudNative Con Europe 2020<br>WHEN: March 30th – April 2nd<br>WHERE: Zuidas, Amsterdam, The Netherlands</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Google Cloud Next<br>WHEN: April 6th – 8th<br>WHERE: San Francisco, California</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cloud Summit 2020<br>WHEN: May 12th – 14th<br>WHERE: Miami Beach, Florida</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Micro Focus Universe<br>WHEN: May 19th – 21st<br>WHERE: San Antonio, Texas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>International Conference on Cloud Computing<br>WHEN: June 22nd – 26th<br>WHERE: Honolulu, Hawaii</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>VMworld 2020<br>WHEN: August 30th – September 3rd<br>WHERE: San Francisco, California</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hosting and Cloud Transformation Summit<br>WHEN: October 5th – 7th<br>WHERE: Las Vegas, Nevada</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cyber Security &amp; Cloud Expo<br>WHEN: November 4th – 5th<br>WHERE: Santa Clara, California</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>AWS re:Invent 2020<br>WHEN: November 30th – December 4th<br>WHERE: Las Vegas, Nevada (tentative)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Reference: solutions review</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
 
