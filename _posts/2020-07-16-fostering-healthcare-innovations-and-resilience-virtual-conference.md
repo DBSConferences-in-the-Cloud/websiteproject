@@ -22,3 +22,21 @@ post_date: 2020-07-16 13:55:30
 <!-- wp:paragraph -->
 <p>12:00 AM – 7:00 AM IST</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"></ul>
+<!-- /wp:social-links -->
+
+<!-- wp:social-links -->
+<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://wordpress.org","service":"wordpress"} /-->
+
+<!-- wp:social-link {"service":"facebook"} /-->
+
+<!-- wp:social-link {"service":"twitter"} /-->
+
+<!-- wp:social-link {"service":"instagram"} /-->
+
+<!-- wp:social-link {"service":"linkedin"} /-->
+
+<!-- wp:social-link {"service":"youtube"} /--></ul>
+<!-- /wp:social-links -->
