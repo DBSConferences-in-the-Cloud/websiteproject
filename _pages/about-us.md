@@ -9,8 +9,8 @@ permalink: >
 published: true
 post_date: 2020-07-14 13:45:32
 ---
-<!-- wp:image {"id":127,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://hwa.dbsprojects.ie/wordpress/wp-content/uploads/2020/07/image.jpeg" alt="Annual Conference - Annual ENETS Conference" class="wp-image-127"/></figure>
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.thealexhotel.ie/wp-content/uploads/sites/4/2019/04/Top-Tips-For-Conferences.jpg" alt="Top 20 Tips For Running A Successful Conference | The Alex"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
