@@ -28,15 +28,11 @@ post_date: 2020-07-16 13:55:30
 <!-- /wp:social-links -->
 
 <!-- wp:social-links -->
-<ul class="wp-block-social-links"><!-- wp:social-link {"url":"https://wordpress.org","service":"wordpress"} /-->
-
-<!-- wp:social-link {"service":"facebook"} /-->
-
-<!-- wp:social-link {"service":"twitter"} /-->
+<ul class="wp-block-social-links"><!-- wp:social-link {"service":"twitter"} /-->
 
 <!-- wp:social-link {"service":"instagram"} /-->
 
 <!-- wp:social-link {"service":"linkedin"} /-->
 
-<!-- wp:social-link {"service":"youtube"} /--></ul>
+<!-- wp:social-link {"service":"facebook"} /--></ul>
 <!-- /wp:social-links -->
