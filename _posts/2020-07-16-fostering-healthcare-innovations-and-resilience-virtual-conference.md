@@ -1,11 +1,13 @@
 ---
 ID: 106
-post_title: 'Fostering healthcare innovations and resilience &#8211; Virtual Conference'
+post_title: >
+  Fostering healthcare innovations and
+  resilience – Virtual Conference
 author: James Atiti
 post_excerpt: ""
 layout: post
 permalink: >
-  https://hwa.dbsprojects.ie/wordpress/index.php/2020/07/16/test/
+  https://hwa.dbsprojects.ie/wordpress/index.php/2020/07/16/fostering-healthcare-innovations-and-resilience-virtual-conference/
 published: true
 post_date: 2020-07-16 13:55:30
 ---
