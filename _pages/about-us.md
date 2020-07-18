@@ -18,5 +18,5 @@ post_date: 2020-07-14 13:45:32
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is built by James Atiti , Hwa  and Omoniyi as a dissertation in fulfilment of the requirements for the course B9MG137 cloud application management towards a level 9 QQI Master Of Business Administration (Cloud Computing) for the Dublin Business School </p>
+<p>It is built by James Atiti, Hwa Jiun Chen and Niyi Aruwajoye Omoniyi as a dissertation in fulfilment of the requirements for the course B9MG137 cloud application management towards a level 9 QQI Master Of Business Administration (Cloud Computing) for the Dublin Business School </p>
 <!-- /wp:paragraph -->
