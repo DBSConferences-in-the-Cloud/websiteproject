@@ -9,6 +9,6 @@ permalink: >
 published: true
 post_date: 2020-07-15 14:51:51
 ---
-<!-- wp:paragraph -->
-<p>CP_CALCULATED_FIELDS id="6"</p>
-<!-- /wp:paragraph -->
+<!-- wp:cpcff/form-shortcode -->
+[CP_CALCULATED_FIELDS id="2" ]
+<!-- /wp:cpcff/form-shortcode -->
