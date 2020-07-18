@@ -38,5 +38,9 @@ post_date: 2020-07-16 16:02:25
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>-Graduate cloud solutions architect </p>
+<p>-Graduate cloud solutions architect</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Interested in working with us kindly send your updated resume to careers@hwa.dbsprojects.ie</p>
 <!-- /wp:paragraph -->
