@@ -10,7 +10,7 @@ published: true
 post_date: 2020-07-16 16:02:25
 ---
 <!-- wp:paragraph -->
-<p>Our values guide everything</p>
+<p><strong>Our values guide everything</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
