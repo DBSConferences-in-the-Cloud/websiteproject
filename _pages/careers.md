@@ -26,7 +26,7 @@ post_date: 2020-07-16 16:02:25
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Our Job Openings</p>
+<p><strong>Our Job Openings</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -34,7 +34,7 @@ post_date: 2020-07-16 16:02:25
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Our Internship Program</p>
+<p><strong>Our Internship Program</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
