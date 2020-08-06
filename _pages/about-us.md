@@ -1,22 +1,14 @@
 ---
-ID: 24
-post_title: About us
-author: James Atiti
-post_excerpt: ""
+ID: 923
+post_title: About Us
+author: james atiti
+post_excerpt: |
 layout: page
 permalink: >
-  https://hwa.dbsprojects.ie/wordpress/index.php/about-us/
+  https://eventmedia.dbsprojects.ie/?page_id=923
 published: true
-post_date: 2020-07-14 13:45:32
+post_date: 2020-07-25 09:42:45
 ---
-<!-- wp:image -->
-<figure class="wp-block-image"><img src="https://www.thealexhotel.ie/wp-content/uploads/sites/4/2019/04/Top-Tips-For-Conferences.jpg" alt="Top 20 Tips For Running A Successful Conference | The Alex"/></figure>
-<!-- /wp:image -->
+[vc_row][vc_column][contact-form-7 id="5447"][/vc_column][/vc_row][vc_row content_placement="middle"][vc_column width="1/2"][vc_single_image image="924" img_size="full"][/vc_column][vc_column width="1/2"][vc_column_text]I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
-<!-- wp:paragraph -->
-<p>We are a global self-service ticketing platform for live conference experiences that allows anyone to create, share, find, and attend conferences that fuel their passions and enrich their lives. From music conferences, educational conferences, IT conferences. Our mission is to bring the world together through live experiences.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>It is built by James Atiti, Hwa Jiun Chen and Niyi Aruwajoye Omoniyi as a dissertation in fulfilment of the requirements for the course B9MG137 cloud application management towards a level 9 QQI Master Of Business Administration (Cloud Computing) for the Dublin Business School </p>
-<!-- /wp:paragraph -->
+I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][/vc_column][/vc_row][vc_row ova_bg_pattern="rgba(36,43,70,0.9)" css=".vc_custom_1508147642626{padding-top: 60px !important;padding-bottom: 60px !important;}"][vc_column css=".vc_custom_1508147955538{margin-bottom: 90px !important;}"][ova_adevent_heading title="Our Services" sub_title="What you will learn and the benefits ?"][/vc_column][vc_column width="1/4"][ova_advent_skill class="bg_white" icon="social_myspace" name="member" number="267"][/vc_column][vc_column width="1/4"][ova_advent_skill class="bg_white" icon="icon_globe" name="venues" number="333"][/vc_column][vc_column width="1/4"][ova_advent_skill class="bg_white" icon="icon_currency" name="Sponsors" number="120"][/vc_column][vc_column width="1/4"][ova_advent_skill class="bg_white no_border" icon="icon_group" name="PARTICIPANT" number="1535"][/vc_column][/vc_row][vc_row css=".vc_custom_1508148318848{padding-bottom: 60px !important;}"][vc_column][/vc_column][/vc_row]

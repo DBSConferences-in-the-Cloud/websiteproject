@@ -1,12 +1,12 @@
 ---
-ID: 137
+ID: 5681
 post_title: Events
-author: hwa
+author: toye4eva01
 post_excerpt: ""
 layout: page
 permalink: >
-  https://hwa.dbsprojects.ie/index.php/events-2/
+  https://eventmedia.dbsprojects.ie/?page_id=5681
 published: true
-post_date: 2020-07-18 10:30:49
+post_date: 2020-08-06 13:52:18
 ---
 [events]

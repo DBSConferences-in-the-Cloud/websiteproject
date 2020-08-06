@@ -1,11 +1,11 @@
 ---
-ID: 64
+ID: 613
 post_title: Blog
 author: Hwa
-post_excerpt: ""
+post_excerpt: |
 layout: page
 permalink: >
-  https://hwa.dbsprojects.ie/index.php/blog/
+  https://eventmedia.dbsprojects.ie/?page_id=613
 published: true
-post_date: 2020-07-29 10:42:55
+post_date: 2020-07-25 04:41:29
 ---
