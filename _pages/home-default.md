@@ -1,7 +1,7 @@
 ---
 ID: 5275
 post_title: Home Default
-author: toye4eva01
+author: james atiti
 post_excerpt: |
 layout: page
 permalink: https://eventmedia.dbsprojects.ie/
