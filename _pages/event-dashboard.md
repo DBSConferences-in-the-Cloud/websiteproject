@@ -1,7 +1,7 @@
 ---
 ID: 5680
 post_title: Event Dashboard
-author: toye4eva01
+author: james atiti
 post_excerpt: ""
 layout: page
 permalink: >
