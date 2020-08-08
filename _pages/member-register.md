@@ -11,4 +11,6 @@ post_date: 2020-07-31 22:30:10
 ---
 [vc_row][vc_column][vc_column_text][custom-register-form][/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_text_separator title="or"][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]<strong>Sign in with</strong>
 
+[miniorange_social_login shape="square" theme="default" space="4" size="35"]
+
 [miniorange_social_login][/vc_column_text][/vc_column][/vc_row]
